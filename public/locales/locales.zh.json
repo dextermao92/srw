@@ -1,0 +1,118 @@
+{
+  "navbar": {
+    "brand": "宋瑞文律师事务所",
+    "home": "主页",
+    "team": "律师团队",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "banner": {
+    "welcome": "宋瑞文律师事务所"
+  },
+  "values": {
+    "title": "专业传承，值得托付",
+    "subtitle": "二十载法律精研，始终如一的专业服务",
+    "description": "宋瑞文律师事务所自2004年创立以来，始终秉持'专业、诚信、负责'的服务理念。凭借二十余年的丰富执业经验，我们深谙法律专业背后的责任与使命。作为您值得信赖的法律顾问，我们将继续以专业的态度和务实的作风，为每一位客户提供最可靠的法律保障。"
+  },
+  "services": {
+    "title": "我们的核心服务",
+    "items": [
+      {
+        "category": "地产开发与过户",
+        "item1": "审阅32号文件",      
+        "item2": "外国投资委员会批准申请",
+        "item3": "售房合同起草",
+        "item4": "房屋过户手续办理",
+        "icon": "/srw/assets/icons/convenyancing.png"
+      },
+      {
+        "category": "商业法与公司法",
+        "item1": "生意购买或并购",
+        "item2": "商业租约起草与审核",
+        "item3": "公司注册，股东合约与股份转让",
+        "item4": "地产，商业及公司股东纠纷",
+        "icon": "/srw/assets/icons/corporate.png"
+      },
+      {
+        "category": "移民与留学",
+        "item1": "投资移民",
+        "item2": "雇主担保移民",
+        "item3": "其它类型移民",
+        "item4": "择校及签证",
+        "icon": "/srw/assets/icons/immigration.png"
+      },
+      {
+        "category": "投资及项目融资咨询",
+        "item1": "为客户寻找合适的投资项目",      
+        "item2": "组织个人或公司赴澳洲考察项目",
+        "item3": "起草可行性报告，参与谈判",
+        "item4": "为客户的澳洲项目进行融资",
+        "icon": "/srw/assets/icons/notary.png"
+      }
+    ]
+  },
+  "team": {
+    "title": "律师团队",
+    "members": [
+      {
+        "name": "Jenny Chen",
+        "title": "地产专家",
+        "description": "具有丰富地产过户的经验",
+        "image": "/srw/assets/images/lawyers/lawyers.png"
+      },
+      {
+        "name": "宋瑞文",
+        "title": "首席律师",
+        "description": "从业二十余年，精通移民法，地产法和商业法",
+        "image": "/srw/assets/images/lawyers/lawyers.png"
+      },
+      {
+        "name": "XX律师",
+        "title": "家庭法专家",
+        "description": "注重客户的权益",
+        "image": "/srw/assets/images/lawyers/lawyers.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "宋瑞文律师行",
+    "content": {
+      "paragraph_1": "澳大利亚宋瑞文律师行创始人，首席律师，维省及澳洲最高法院律师，澳洲江苏总商会副会长。",
+      "paragraph_2": "1985年毕业于山东大学法律系，毕业后在江苏省人民币检察院担任检察官近十余年，后赴澳深造，获八大名校之莫纳什大学法律学位。随即就职于本地著名西人律师行，后创办宋瑞文律师行，精通移民法，地产法和商务法业务。"
+    },
+    "core_values": {
+      "items": [
+        {
+          "category": "宗旨",
+          "value": "精通业务，热诚服务，团结协作，共同进步"
+        },
+        {
+          "category": "使命",
+          "value": "精通业务，热诚服务，团结协作，共同进步"
+        },
+        {
+          "category": "价值观",
+          "value": "精通业务，热诚服务，团结协作，共同进步"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "branch": "Melbourne CBD",
+    "wechat": "微信",
+    "red": "小红书",
+    "title": "联系我们",
+    "office": "办公室",
+    "email": "电子邮箱",
+    "send_message": "发送消息",
+    "phone": "电话",
+    "fax": "传真"
+  },
+  "footer": {
+    "company": "公司信息",
+    "contact_us": "联系我们",
+    "our_team": "律师团队",
+    "copyright": "Harry R. Song & Associates. All rights reserved.",
+    "about_us": "关于我们"
+  }
+}
