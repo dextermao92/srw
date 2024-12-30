@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/srw/static/css/main.c7b53201.css",
+    "main.js": "/srw/static/js/main.b320caa4.js",
+    "static/js/453.f68d730a.chunk.js": "/srw/static/js/453.f68d730a.chunk.js",
+    "static/media/melb-cbd.jpg": "/srw/static/media/melb-cbd.2acfd1adf74a3e09cf75.jpg",
+    "static/media/harry_song-2.jpeg": "/srw/static/media/harry_song-2.1d44f42b2c7d1a654812.jpeg",
+    "static/media/brand.png": "/srw/static/media/brand.a1a63a6be4a200e20862.png",
+    "static/media/slick.svg": "/srw/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/srw/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/srw/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/srw/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/srw/index.html",
+    "static/media/getFetch.cjs": "/srw/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.c7b53201.css.map": "/srw/static/css/main.c7b53201.css.map",
+    "main.b320caa4.js.map": "/srw/static/js/main.b320caa4.js.map",
+    "453.f68d730a.chunk.js.map": "/srw/static/js/453.f68d730a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b53201.css",
+    "static/js/main.b320caa4.js"
+  ]
+}

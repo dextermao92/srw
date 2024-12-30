@@ -1,0 +1,118 @@
+{
+  "navbar": {
+    "brand": "Harry R. Song & Associates",
+    "home": "Home",
+    "team": "Our Team",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "banner": {
+    "welcome": "Harry R. Song & Associates"
+  },
+  "values": {
+    "title": "Professional Legacy, Trusted Partnership",
+    "subtitle": "Two Decades of Legal Excellence",
+    "description": "Since our establishment in 2004, Harry R. Song & Associates has upheld the principles of professionalism, integrity, and responsibility. With over 20 years of rich experience, we deeply understand the responsibility and mission behind legal practice. As your trusted legal advisor, we continue to provide the most reliable legal protection for every client with our professional attitude and practical approach."
+  },
+  "services": {
+    "title": "Our Core Services",
+    "items": [
+      {
+        "category": "Property Development & Conveyancing",
+        "item1": "Section 32 Statement Review",
+        "item2": "FIRB Application",
+        "item3": "Contract of Sale Drafting",
+        "item4": "Property Settlement",
+        "icon": "/srw/assets/icons/convenyancing.png"
+      },
+      {
+        "category": "Business & Corporate Law",
+        "item1": "Business Purchase & Mergers",
+        "item2": "Commercial Lease Review & Drafting",
+        "item3": "Company Registration & Share Transfer",
+        "item4": "Property, Business & Shareholder Disputes",
+        "icon": "/srw/assets/icons/corporate.png"
+      },
+      {
+        "category": "Immigration Law & Education",
+        "item1": "Investment Immigration",
+        "item2": "Employer Sponsored Immigration",
+        "item3": "Other Immigration Types",
+        "item4": "School Selection & Visa",
+        "icon": "/srw/assets/icons/immigration.png"
+      },
+      {
+        "category": "Investment & Project Financing",
+        "item1": "Finding Suitable Investment Projects",
+        "item2": "Organizing Investment Tours to Australia",
+        "item3": "Feasibility Reports & Negotiations",
+        "item4": "Project Financing in Australia",
+        "icon": "/srw/assets/icons/notary.png"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Legal Team",
+    "members": [
+      {
+        "name": "Jenny Chen",
+        "title": "Property Specialist",
+        "description": "Extensive experience in property conveyancing",
+        "image": "/srw/assets/images/lawyers/Jenny-profile.jpg"
+      },
+      {
+        "name": "Harry R. Song",
+        "title": "Principal Lawyer",
+        "description": "Over 20 years of experience, specializing in immigration law, property law and commercial law",
+        "image": "/srw/assets/images/lawyers/Harry-profile.jpg"
+      },
+      {
+        "name": "Lawyer XX",
+        "title": "Family Law Specialist",
+        "description": "Focused on protecting clients' rights",
+        "image": "/srw/assets/images/lawyers/lawyers.png"
+      }
+    ]
+  },
+  "about": {
+    "title": "Harry R. Song & Associates",
+    "content": {
+      "paragraph_1": "Founder and Principal Lawyer of Harry R. Song & Associates, Barrister and Solicitor of the Supreme Court of Victoria and High Court of Australia, Vice President of Australia Jiangsu Chamber of Commerce.",
+      "paragraph_2": "Graduated from Shandong University Law School in 1985, served as a prosecutor at Jiangsu Provincial People's Procuratorate for over a decade. Later pursued further studies in Australia, obtaining a law degree from Monash University, one of Australia's Group of Eight universities. Subsequently worked at a prominent local law firm before establishing Harry R. Song & Associates, specializing in immigration law, property law, and commercial law."
+    },
+    "core_values": {
+      "items": [
+        {
+          "category": "Mission",
+          "value": "Professional expertise, dedicated service, teamwork, and mutual growth"
+        },
+        {
+          "category": "Vision",
+          "value": "Professional expertise, dedicated service, teamwork, and mutual growth"
+        },
+        {
+          "category": "Values",
+          "value": "Professional expertise, dedicated service, teamwork, and mutual growth"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "branch": "Melbourne CBD",
+    "wechat": "WeChat",
+    "red": "Xiaohongshu",
+    "title": "Contact Us",
+    "office": "Office",
+    "email": "Email",
+    "send_message": "Send Message",
+    "phone": "Phone",
+    "fax": "Fax"
+  },
+  "footer": {
+    "company": "Company",
+    "contact_us": "Contact Us",
+    "our_team": "Our Team",
+    "copyright": "Harry R. Song & Associates. All rights reserved.",
+    "about_us": "About Us"
+  }
+}
